@@ -5,5 +5,10 @@ NGINX Compression Fix
 NGINX's GZIP has been enabled at a global level with a compression of 6
 NGINX has been restarted momentarily afterwards
 Very little downtime has been created as a result
+Changes to GZIP config:
+gzip_comp 6
+gzip type http 1.1
+
+Server and pages are working well with no errors recorded. Performance should be improved.
 
 Overall health and performance of server is maintained and is checked in good condition.
