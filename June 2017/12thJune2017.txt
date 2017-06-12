@@ -1,0 +1,9 @@
+12th June 2017
+Change Log
+
+NGINX Compression Fix
+NGINX's GZIP has been enabled at a global level with a compression of 6
+NGINX has been restarted momentarily afterwards
+Very little downtime has been created as a result
+
+Overall health and performance of server is maintained and is checked in good condition.
