@@ -12,3 +12,8 @@ gzip type http 1.1
 Server and pages are working well with no errors recorded. Performance should be improved.
 
 Overall health and performance of server is maintained and is checked in good condition.
+
+
+Some pages has been rendered and fetched under Google Search
+Google Search Console has verified the owner of the website
+More information about Google search presence coming in the next few days/weeks as we sort things out.
